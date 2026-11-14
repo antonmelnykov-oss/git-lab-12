@@ -1,4 +1,4 @@
-# Git Lab 1
+# Git Lab 12
 
 12 лабораторна робота з Git та GitHub.
 
